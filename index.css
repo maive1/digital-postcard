@@ -1,0 +1,12 @@
+body {background-color: black;
+    font-family: 'Handlee', cursive;}
+.box { width: 400px ; height: 320px; position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); margin: auto; background-color: white;}
+.header {padding: 3px; overflow: hidden;}
+.main-title { float: left;}
+.logo { width: 60px; height: 60px; float: right; margin-right: 5px; margin-top: 10px;}
+.section {padding: 10px; overflow: hidden;}
+.first-text {float: left;; width: 50%}
+.tab1 {float: right; width: 50%; overflow: hidden;}
+.tab1 input {display: block; margin: 3px; width: 100%; padding: 5px; border: none; border-bottom: 1px solid #b2b2b2;}
+.button {padding: 0; margin: auto; text-align: center;}
+.button a {background-color: #b2b2b2; text-decoration: none; color: black; padding: 3px;}
